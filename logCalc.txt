@@ -1,0 +1,8 @@
+февр. 12, 2023 12:39:11 AM CalcWithMemory.Calc mult
+INFO: Операция кмножения.
+февр. 12, 2023 12:39:55 AM CalcWithMemory.Controller control
+INFO: Отмена операции.
+февр. 12, 2023 12:40:18 AM CalcWithMemory.Calc sum
+INFO: Операция сложения.
+февр. 12, 2023 12:40:28 AM CalcWithMemory.Controller control
+INFO: Выход из программы.
